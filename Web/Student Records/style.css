@@ -1,0 +1,39 @@
+*{
+    display: block;
+    font-size: 20px;
+    margin: 5px;
+    font-family: "calibri";
+}
+
+student{
+    margin: 30px;
+    border: 2px solid black;
+    width: 200px;
+}
+heading{
+    margin: 30px;
+}
+
+usn{
+    color: red;
+}
+
+name{
+    color: blue;
+}
+
+college{
+    color: brown;
+}
+
+branch{
+    color: violet;
+}
+
+year{
+    color: orange;
+}
+
+email{
+    color: springgreen;
+}
